@@ -26,7 +26,6 @@ Currency-Converter/
 ├── style.css
 ├── app.js
 ├── codes.js
-└── README.md
 ```
 
 ## How to Run
